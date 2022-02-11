@@ -1,7 +1,7 @@
 ![Trybewarts](tbw.gif)
 
 # Trybewarts
-Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando HTML, CSS, Javascript e DOM no módulo de fundamentos, o objetivo era praticar formulários e trabalho em equipe. Entregue com 100% dos requisitos.
+Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando HTML, CSS, Javascript e DOM no módulo de fundamentos, o objetivo era praticar formulários e trabalho em equipe. Entregue com 100% dos requisitos respeitando o ESLint e Stylelint.
 
 ## Direitos autorais
 
